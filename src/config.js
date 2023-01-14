@@ -90,7 +90,7 @@ export default {
     title: '个人博客搭建',
     content: '日常学习记录',
     image: 'box1.png',
-    href: 'https://binruable.github.io/Vue_Todo_List/'
+    href: 'https://binruable.github.io'
   }, {
     title: '填充工具',
     content: 'Android联系人、短信、电话、邮箱填充工具',
@@ -100,7 +100,7 @@ export default {
     title: '数据结构与算法',
     content: '日常算法练习（java与pythob）',
     image: 'box5.jpg',
-    href: 'https://leetcode.cn/u/binru/'
+    href: 'https://leetcode.cn/u/binru'
   }, {
     title: '非接触式心率估计',
     content: '硕士期间研究课题',
@@ -109,11 +109,11 @@ export default {
   }, {
     title: '轮播图',
     image: 'box4.png',
-    href: "https://binruable.github.io/demo/"
+    href: "https://binruable.github.io/demo"
   },{
     title: 'TodoList',
     image: 'img.png',
-    href: "https://binruable.github.io/"
+    href: "https://binruable.github.io/Vue_Todo_List"
   }],
   // page6部分
   page6: {
