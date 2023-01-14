@@ -107,9 +107,9 @@ export default {
     image: 'box2.png',
     href: 'https://github.com/binruable/residual-3dcnn-rPPG'
   }, {
-    title: '轮播图',
+    title: '烟花',
     image: 'box4.png',
-    href: "https://binruable.github.io/demo"
+    href: "https://binruable.github.io/firework"
   },{
     title: 'TodoList',
     image: 'img.png',
