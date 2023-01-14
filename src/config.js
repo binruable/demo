@@ -9,7 +9,7 @@ export default {
     authorImg: 'page1.jpg', // 作者头像
     xinhui: '我叫王宾如，26岁，目前在紫光展锐（天津）做测试', // 幸会
     jiguan:'湖南衡阳',
-    xingge: '开朗乐观，诚实守信', // 性格
+    xingge: '开朗乐观', // 性格
     guanyuwo: '从小生活在南方小城市，2014年开始在北方求学，不知不觉在北方待了八个年头。' +
         '目前自己掌握一些测试技巧、积累了一些开发经验。希望可以和大家一起学习，共同进步！' // 关于我
   },
@@ -87,8 +87,8 @@ export default {
   },
   // page5部分
   page5: [{
-    title: 'TodoList',
-    content: '网页版增删改查',
+    title: '个人博客搭建',
+    content: '日常学习记录',
     image: 'box1.png',
     href: 'https://binruable.github.io/Vue_Todo_List/'
   }, {
@@ -98,7 +98,7 @@ export default {
     href: 'http://binruable.github.io/src/img/fill_in.jpg'
   }, {
     title: '数据结构与算法',
-    content: '各种算法练习',
+    content: '日常算法练习（java与pythob）',
     image: 'box5.jpg',
     href: 'https://leetcode.cn/u/binru/'
   }, {
@@ -111,7 +111,7 @@ export default {
     image: 'box4.png',
     href: "https://binruable.github.io/demo/"
   },{
-    title: '个人网站搭建',
+    title: 'TodoList',
     image: 'img.png',
     href: "https://binruable.github.io/"
   }],
