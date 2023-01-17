@@ -95,10 +95,10 @@ export default {
     title: '填充工具',
     content: 'Android联系人、短信、电话、邮箱填充工具',
     image: 'box3.jpg',
-    href: 'http://binruable.github.io/src/img/fill_in.jpg'
+    href: 'http://binruable.github.io/demo/src/img/fill_in.jpg'
   }, {
     title: '数据结构与算法',
-    content: '日常算法练习（java与pythob）',
+    content: '日常算法练习（java与python）',
     image: 'box5.jpg',
     href: 'https://leetcode.cn/u/binru'
   }, {
