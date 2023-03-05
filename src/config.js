@@ -50,7 +50,7 @@ export default {
       date: '2021/6——至今',
       desc: {
         title: '紫光展锐（天津）有限公司',
-        list: ['紫光展锐闪耀之星', '测试部优秀员工', '紫光展锐最佳新人奖']
+        list: ['紫光展锐闪耀之星', '紫光展锐优秀员工', '紫光展锐最佳新人奖']
       }
     }],
     // 我的拓展技能掌握
@@ -69,16 +69,16 @@ export default {
     }],
     // 我的基本技能掌握
     proresslist: [{
-      title: 'Python',
-      value: '90%'
+      title: 'Java',
+      value: '70%'
     }, {
-      title: '测试方法',
-      value: '90%'
+      title: 'C++',
+      value: '70%'
     }, {
       title: 'Android',
-      value: '80%'
+      value: '70%'
     }, {
-      title: 'Java',
+      title: 'Python',
       value: '80%'
     }, {
       title: 'sql',
