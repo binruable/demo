@@ -11,25 +11,25 @@ export default {
     jiguan:'湖南衡阳',
     xingge: '开朗乐观', // 性格
     guanyuwo: '从小生活在南方小城市，2014年开始在北方求学，不知不觉在北方待了八个年头。' +
-        '目前自己掌握一些开发经验、积累了一些测试技巧。希望可以和大家一起学习，共同进步！' // 关于我
+        '目前自己掌握了一些测试技巧、积累了一些开发经验。希望可以和大家一起学习，共同进步！' // 关于我
   },
   // page3部分
   page3: [{
     icon: 'icon-tubiao-',
-    title: '需求提取与分析',
+    title: '测试需求提取与分析',
     msg: ['业务需求','用户需求','功能需求']
   },{
     icon: 'icon-diannao', // 图标
-    title: '应用界面设计', // 标题
-    msg: ['绘制应用界面原型', '需求编码实现',] //介绍
+    title: '测试设计', // 标题
+    msg: ['测试方案', '测试用例',] //介绍
   }, {
     icon: 'icon-qianbi1',
-    title: '测试',
+    title: '测试用例执行与回归',
     msg: ['自动化测试', '冒烟测试']
   },  {
     icon: 'icon-shouji',
-    title: 'Bug修复',
-    msg: ['根据Android设备运行情况及相应log修复对应的Bug']
+    title: 'Bug提交与管理',
+    msg: ['提交有价值Bug']
   }],
   // page4部分
   page4: {
@@ -38,7 +38,7 @@ export default {
       date: '2014/9——2018/6', // 时间
       desc: { // 经历
         title: '天津理工大学（本科）',
-        list: ['校宣传部成员', '爱好篮球', '本学院乒乓球比赛八强', '校三好学生', 'CET-4']
+        list: ['校宣传部成员', '爱好篮球', '本学院乒乓球比赛八强', '校三好学生', 'CET-6']
       }
     }, {
       date: '2018/9——2021/6',
@@ -98,7 +98,7 @@ export default {
     href: 'http://binruable.github.io/demo/src/img/fill_in.jpg'
   }, {
     title: '数据结构与算法',
-    content: '日常算法练习（java与python）',
+    content: '日常算法练习',
     image: 'box5.jpg',
     href: 'https://leetcode.cn/u/binru'
   }, {
